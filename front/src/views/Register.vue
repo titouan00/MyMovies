@@ -1,7 +1,8 @@
 <template>
-  <p>Home</p>
+    <div>
+        Register
+    </div>
 </template>
-
 
 <script>
 
